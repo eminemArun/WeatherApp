@@ -22,7 +22,7 @@ Open `WeatherApp.xcodeproj` and run Shopping App scheme in a chosen simulator. I
 - MVVM design architecture implented ❤️
 - The codable protocol is used for json Parsing (like LocationSearch.swift and LocationInfo.swift struct) 😀
 - Constants.swift contains all static resource like (APIValue,Cities etc) If you want to add new city then please go to Constants.swift class 🙂
-- Ipad split view also added for this demo 👌
+- iPad split view also added for this demo 👌
 
 ## TestCase
 - Hit command + U for run the test cases 🚀
