@@ -28,7 +28,7 @@ class WeatherViewModel: NSObject {
     
     //Get Location Info data
     internal func getLocationInfoFor(_ query:String) {
-        WALOG("Calling get location search API")
+        WALOG("Calling Search Info API")
         service.fetchLocationInfo(query, completion: { [weak self] locationInfo in
             self?.delegate?.locationInfo(locationInfo)
         })

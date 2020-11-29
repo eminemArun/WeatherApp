@@ -10,5 +10,5 @@ import Foundation
  - parameter line:     Should not be used
  */
 public func WALOG( _ message: String, file: String = #file, function: String = #function, line: Int = #line ) {
-    print("([\((file as NSString).lastPathComponent) \(function)] line: \(line)) ", message)
+    //print("([\((file as NSString).lastPathComponent) \(function)] line: \(line)) ", message)
 }
