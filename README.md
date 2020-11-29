@@ -1,2 +1,30 @@
 # WeatherApp
 Show the weather info 
+
+## Setup
+Requirements: 
+
+- Xcode 11 and later
+- Swift 5.1
+- iOS 13 and above
+
+## Run
+
+Open `WeatherApp.xcodeproj` and run Shopping App scheme in a chosen simulator. If you want to run the app on a real device, you need to update code signing configuration first.
+
+
+## Some implementation details
+- There are no external dependencies 🔥
+- MVVM design architecture implented ❤️
+- The codable protocol is used for json Parsing (like LocationSearch.swift and LocationInfo.swift struct) 😀
+- Constants.swift contains all static resource like (APIValue,Cities etc) If you want to add new city then please go to Constants.swift class 🙂
+- Ipad split view also added for this demo 👌
+
+## TestCase
+- Hit command + U for run the test cases 🚀
+- Test cases has been added for Network and view model class 🚀
+- Model and Controller are also being tested via test case 🚀
+
+
+## UITestCase
+- WeatherAppUITests have testRunApp test to check basic app functionality 🔥
