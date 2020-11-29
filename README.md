@@ -10,7 +10,8 @@ Requirements:
 
 ## App demo screen
 
-<img src="home.png" height="300"> <img src="Simulator Screen Shot - iPhone 11 - 2020-11-29 at 16.53.20.png" height="300"> <img src="Detail.png" height="300"><img src="Simulator Screen Shot - iPhone 11 - 2020-11-29 at 16.53.36.png" height="300">
+<img src="Simulator Screen Shot - iPhone 11 - 2020-11-29 at 16.53.20.png" height="300"> 
+<img src="Simulator Screen Shot - iPhone 11 - 2020-11-29 at 16.53.36.png" height="300">
 
 ## Run
 
