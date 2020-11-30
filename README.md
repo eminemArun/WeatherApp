@@ -8,9 +8,12 @@ Requirements:
 - Swift 5.1
 - iOS 13 and above
 
-## App demo screen
+## App demo screen for iPhone
 
 <img src="Simulator Screen Shot - iPhone 11 - 2020-11-29 at 16.53.20.png" height="300"> <img src="Simulator Screen Shot - iPhone 11 - 2020-11-29 at 16.53.36.png" height="300">
+
+## App demo screen for iPad
+<img src="Simulator Screen Shot - iPad Air (3rd generation) - 2020-11-30 at 11.00.35.png" height="300">
 
 ## Run
 
