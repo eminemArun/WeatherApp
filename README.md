@@ -17,7 +17,7 @@ Requirements:
 
 ## Run
 
-Open `WeatherApp.xcodeproj` and run Shopping App scheme in a chosen simulator. If you want to run the app on a real device, you need to update code signing configuration first.
+Open `WeatherApp.xcodeproj` and run Weather App scheme in a chosen simulator. If you want to run the app on a real device, you need to update code signing configuration first.
 
 
 ## Some implementation details
